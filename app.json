@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sqlite-stmt-repro",
+    "slug": "sqlite-stmt-repro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.example.sqlitestmtrepro" }
+  }
+}
